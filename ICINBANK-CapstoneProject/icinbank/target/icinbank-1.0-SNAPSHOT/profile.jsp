@@ -47,7 +47,7 @@
         <div class="container">
             <div class="row">
             <div class="col md-6">
-                <div class="card" style="background: #0b2239;   box-shadow: 0 0 20px rgba(0,0,0,0.4);   border-radius: 5px;      padding: 20px;   text-align: center;   color: white;   ">
+                <div class="card" style="background: #0b7249;   box-shadow: 0 0 20px rgba(0,0,0,0.4);   border-radius: 5px;      padding: 20px;   text-align: center;   color: white;   ">
                 <div class="card-body"> 
                 <div class="form-group" style="padding-left: 30px; padding-right: 30px">
                     <h3 class="text-center " >PROFILE DETAILS</h3><br>

@@ -12,7 +12,7 @@
         <title>New User Registration</title>
         <%@include file="components/common_css_js.jsp" %>
     </head>
-    <body style="background-color: #0b2239">
+    <body style="background-color: #0b7249">
         <%@include  file="components/navbar.jsp" %><br>
         <div class="container-fluid" >
             <div class="row mt-3">
@@ -22,11 +22,11 @@
                         <%@include  file="message.jsp" %>                        
                         <div class="card-body px-5">
                             <div class="container text-center">
-                                <img src="img/seo-and-web.png"  style="max-width: 100px;" class="img-fluid" alt="user">
+                                <img src="img/r.png"  style="max-width: 100px;" class="img-fluid" alt="user">
                             </div>
 
 
-                            <h3 class="text-center my-3">Subscribe To ICIN Here !!</h3>
+                            <h3 class="text-center my-3">Register To ICIN</h3>
 
                             <form action="RegisterServlet" method="post">
 

@@ -50,7 +50,7 @@
         <title> <%=useru.getUserName()%>'s Services </title>
         <%@include file="components/common_css_js.jsp" %>
     </head>
-    <body style="background: #0b2239">
+    <body style="background: #0b7249">
          <%
                 
                 PrimAccDao pdao=new PrimAccDao(FactoryProvider.getFactory());
@@ -78,7 +78,7 @@
                     <div class="card" style="box-shadow: 0 0 20px rgba(0,0,0,0.4);">
                         <div class="card-body text-center">
                             <div class="container">
-                                <img style="max-width: 125px;" class="img-fluid  " src="img/social.png" alt="user_icon">
+                                <img style="max-width: 125px;" class="img-fluid  " src="img/a.png" alt="user_icon">
 
                             </div> 
                           
@@ -102,7 +102,7 @@
                         <div class="card-body" >
 
                             <div class="container">
-                                <img style="max-width: 125px;" class="img-fluid  " src="img/product.png" alt="user_icon">
+                                <img style="max-width: 125px;" class="img-fluid  " src="img/check.png" alt="user_icon">
 
                             </div> 
 
@@ -127,7 +127,7 @@
                         <div class="card-body text-center">
 
                             <div class="container">
-                                <img style="max-width: 125px;" class="img-fluid  " src="img/add-friend.png" alt="user_icon">
+                                <img style="max-width: 125px;" class="img-fluid  " src="img/tr.png" alt="user_icon">
 
                             </div> 
 
@@ -161,7 +161,7 @@
                         <div class="card-body text-center">
 
                             <div class="container">
-                                <img style="max-width: 125px;" class="img-fluid  " src="img/minus.png" alt="user_icon">
+                                <img style="max-width: 125px;" class="img-fluid  " src="img/de.png" alt="user_icon">
 
                             </div> 
 
@@ -183,7 +183,7 @@
                         <div class="card-body text-center">
 
                             <div class="container">
-                                <img style="max-width: 125px;" class="img-fluid  " src="img/keys.png" alt="user_icon">
+                                <img style="max-width: 125px;" class="img-fluid  " src="img/ba.png" alt="user_icon">
 
                             </div> 
 

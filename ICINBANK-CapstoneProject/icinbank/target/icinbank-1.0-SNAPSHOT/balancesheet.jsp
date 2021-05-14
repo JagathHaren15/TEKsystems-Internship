@@ -21,7 +21,7 @@
         <%@include file="components/common_css_js.jsp" %>
     </head>
     
-        <body style="background: #0b2239">
+        <body style="background: #0b7249">
             
             <%
                 ReqMDao dao=new ReqMDao(FactoryProvider.getFactory());

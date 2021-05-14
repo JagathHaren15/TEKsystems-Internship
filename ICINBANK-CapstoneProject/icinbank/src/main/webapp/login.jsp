@@ -23,7 +23,7 @@
 
                     <div class="card mt-3" style="box-shadow: 0 0 20px rgba(0,0,0,0.4)">
 
-                        <div class="card-header text-white " style="background-color: #0b2239;">
+                        <div class="card-header text-white " style="background-color: #0b7249;">
                             <h3>Login here</h3>
                         </div>
 
@@ -33,13 +33,13 @@
                                 <div class="form-group">
                                     <label for="exampleInputEmail1">Email address</label>
                                     <input  name="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-                                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                                    <small id="emailHelp" class="form-text text-muted">Your email will not be shared</small>
                                 </div>
                                 <div class="form-group">
                                     <label for="exampleInputPassword1">Password</label>
                                     <input  name="password" type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
                                 </div>
-                                <a href="register.jsp" class="text-center d-block mb-2" style="color:#0b2239"> If You Are A New User Click Me </a>
+                                <a href="register.jsp" class="text-center d-block mb-2" style="color:#0b2239"> NEW USER? CLICK HERE!!</a>
                                 <div class="container text-center"> 
 
                                     <button type="submit" class="btn btn-primary border-0 " style="background:#0b2239">Submit</button>

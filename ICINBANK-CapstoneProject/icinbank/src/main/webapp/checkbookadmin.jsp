@@ -35,7 +35,7 @@
         <title><%=user.getUserName()%>'s Panel</title>
         <%@include file="components/common_css_js.jsp" %>
     </head>
-    <body style="background: #0b2239">
+    <body style="background: #0b7249">
     <%@include file="components/navbar.jsp" %>
     <%
       ReqCheqDao dao=new ReqCheqDao(FactoryProvider.getFactory());

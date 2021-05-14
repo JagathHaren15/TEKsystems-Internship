@@ -8,7 +8,7 @@
         <title>Registered Successfully</title>
          <%@include file="components/common_css_js.jsp" %>
     </head>
-    <body style="background: #0b2239">
+    <body style="background: #0b7249">
         <%@include  file="components/navbar.jsp" %>
         <br><br><br>
         
@@ -49,8 +49,8 @@
 
 
 %>
-                                <h4 style="color:black"> You Have Been Registered Successfully!<br>
-                                    Press The Button & Move to Login Window!</h4> <br> <br> 
+                                <h4 style="color:black">Registered Successfully!<br>
+                                    Move to Login Window!</h4> <br> <br> 
                                 <div class="container text-center" > 
 
                                     <button type="submit" class="btn btn-primary border-0 " style="background:#0b2239">Login Window</button>

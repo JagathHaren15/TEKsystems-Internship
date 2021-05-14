@@ -35,7 +35,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>User Authentication</title><%@include file="components/common_css_js.jsp" %>
     </head>
-   <body style="background: #0b2239">
+   <body style="background: #0b7249">
     <%@include file="components/navbar.jsp" %>
     <%
       PrimAccDao dao=new PrimAccDao(FactoryProvider.getFactory());

@@ -7,8 +7,8 @@
     
 %>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light  " style="background: #4b4a67" >
-    <div class ="container" ><a class="navbar-brand" href="index.jsp">I C I N   &nbsp;&nbsp; B A N K</a>
+<nav class="navbar navbar-expand-lg navbar-light bg-light  " style="background: #000000" >
+    <div class ="container" ><a class="navbar-brand" href="index.jsp">I C I N   &nbsp;&nbsp; B A N K &nbsp;&nbsp; l i m i t e d</a>
   
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>

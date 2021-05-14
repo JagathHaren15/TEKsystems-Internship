@@ -38,7 +38,7 @@
         <title>Transfer Money</title>
         <%@include file="components/common_css_js.jsp" %>
     </head>
-    <body style="background: #0b2239">
+    <body style="background: #0b7249">
     <%
                 UserDao dao=new UserDao(FactoryProvider.getFactory());
                 List<User> list = dao.getUserDet();
